@@ -1,0 +1,8 @@
+Harsha
+Me using this file to learn file handling
+This concept was taught by Master Stroke tech team
+They include all the concepts that included in this file handling topic
+It include open a file, read a file in different ways, reading it using for loop
+
+
+Writing a file
